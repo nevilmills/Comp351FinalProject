@@ -1,0 +1,52 @@
+#loginButtonsContainer {
+    margin-top: 10px;
+}
+
+#createAccBtn {
+    margin-right: 25px;
+}
+
+.menuContainer {
+    margin: auto;
+    display: block;
+    width: 12%;
+    padding: 10px;
+}
+
+.loginBtn {
+    margin-right: 25px;
+}
+
+.inputContainer {
+    border: 1px solid #000000;
+    padding: 10px;
+    /*display: inline-block;*/
+}
+
+.haveAccount {
+    font-size: 14px;
+    margin-left: 50px;
+}
+
+.usernameInput {
+    margin-bottom: 5px;
+}
+
+.login {
+    border: 1px solid #000000;
+    padding: 10px;
+    display: inline-block;
+}
+
+form {
+    display: table;
+    padding-bottom: 10px;
+}
+
+label {
+    display: table-row;
+}
+
+input {
+    display: table-row;
+}
